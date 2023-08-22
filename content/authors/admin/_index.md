@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Martina Ilarri
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Martina
+last_name: Ilarri
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: CIIMAR
+    url: http://www2.ciimar.up.pt/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biological Invasions
+  - Climate Change
+  - Conservation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Marine and Environmental Sciences
+      institution: University of Porto, Portugal
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSc in Biological Sciences - Zoology
+      institution: Universidade Federal da Paraiba, Brazil
       year: 2008
+    - course: BSc in Biological Sciences - Marina Biology
+      institution: Universidade Federal Fluminense, Brazil
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
