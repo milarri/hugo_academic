@@ -53,16 +53,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/martinailarri
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.pt/citations?user=Sy5XdsQAAAAJ&hl=pt-PT
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/milarri
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Martina Ilarri is a Researcher at the Benthic ecology and environmental solutions lab, CIIMAR-UP. Her main research interests focus on studying the changes (taxonomical and functional diversity) associated with the introduction of invasive aquatic species at different ecological levels (populations, communities and ecosystems). In addition, she focuses on understanding changes in the functioning of aquatic communities due to the impacts of climate change and extreme weather events. 
 {style="text-align: justify;"}
