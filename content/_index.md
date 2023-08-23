@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
+        - name: Ecology
+          icon: r-project
+          icon_pack: fab
+        - name: Conservation
+          icon: r-project
+          icon_pack: fab
         - name: R
-          description: 50%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 80%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,12 +40,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Researcher
+          company: CIIMAR
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Porto (Portugal)
+          date_start: '2018-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -53,13 +53,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Postdoctoral Researcher
+          company: FCT scholarship
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Porto (Portugal)
+          date_start: '2012-03-01'
+          date_end: '2018-09-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
