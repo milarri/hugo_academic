@@ -13,9 +13,7 @@ author_notes:
   - Equal contribution
 publication: In *Proceedings of the 5th International Symposium on Water
   Resource and Environmental Management. WREM 2022*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 publication_short: In *ICW*
@@ -23,7 +21,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Biodiversity associated to floating wetland islands
 doi: https://doi.org/10.1007/978-3-031-31289-2_13
-featured: true
+featured: false
 tags: []
 projects:
   - example
