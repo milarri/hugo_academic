@@ -13,7 +13,8 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Robert Ford
+  - Allan Souza
+  - ""
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -28,7 +29,7 @@ url_source: ""
 url_video: ""
 title: bla bla bla
 doi: ""
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
