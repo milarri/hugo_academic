@@ -29,6 +29,7 @@ interests:
   - Biological Invasions
   - Climate Change
   - Conservation
+  - Data Science
 
 # Education to show in About widget
 education:
