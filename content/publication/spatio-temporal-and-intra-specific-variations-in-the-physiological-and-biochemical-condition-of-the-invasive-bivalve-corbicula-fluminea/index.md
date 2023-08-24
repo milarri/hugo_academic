@@ -5,11 +5,11 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Monteiro RG
-  - Ozório
-  - R
-  - Sousa R
+  - Rosana G. Monteiro
+  - Rodrigo Ozório
+  - Ronaldo Sousa
 doi: https://doi.org/10.1007/s10750-021-04733-4
+publication_short: Hydrobiologia
 draft: false
 featured: false
 image:
