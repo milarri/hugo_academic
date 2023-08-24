@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Souza AT
-  - Ilarri MI
+  - admin
   - Rosa IL
 doi: https://doi.org/10.1007/s10641-010-9765-z
 draft: false
