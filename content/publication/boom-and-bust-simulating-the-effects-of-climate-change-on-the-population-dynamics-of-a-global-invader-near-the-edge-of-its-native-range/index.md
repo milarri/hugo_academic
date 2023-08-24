@@ -10,7 +10,7 @@ authors:
   - Ribas FO
   - Marques JC
   - Martins I
-doi: "doi: https://doi.org/10.1016/j.scitotenv.2022.158294"
+doi: https://doi.org/10.1016/j.scitotenv.2022.158294
 draft: false
 featured: false
 image:
