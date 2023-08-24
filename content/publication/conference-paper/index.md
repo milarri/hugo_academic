@@ -1,6 +1,6 @@
 ---
 abstract: ""
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -23,8 +23,7 @@ title: Biodiversity associated to floating wetland islands
 doi: https://doi.org/10.1007/978-3-031-31289-2_13
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
