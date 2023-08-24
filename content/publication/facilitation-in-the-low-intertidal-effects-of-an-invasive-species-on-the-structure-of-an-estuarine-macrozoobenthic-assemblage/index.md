@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Novais A
   - Souza AT
-  - Ilarri M
+  - admin
   - Pascoal C
   - Sousa R
 doi: https://doi.org/10.3354/meps11168
