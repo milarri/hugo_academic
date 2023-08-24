@@ -3,18 +3,19 @@ title: What we know and do not know about the invasive Asian clam Corbicula flum
 publication_types:
   - "2"
 authors:
-  - Modesto V
+  - Vanessa Modesto
   - admin
-  - Labecka AM
-  - Ferreira-Rodríguez N
-  - Coughlan NE
-  - Liu Xiongju n
-  - Sousa R
+  - Anna M. Labecka
+  - Noé Ferreira-Rodríguez
+  - Neil E. Coughlan
+  - Xiongjung Liu
+  - Ronaldo Sousa
 doi: https://doi.org/10.1007/s10750-023-05280-w
+publication: Hydrobiologia
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: hydrobiologia_journal.png
   focal_point: Smart
   preview_only: false
 date: 2023-06-26T09:55:04.399Z
