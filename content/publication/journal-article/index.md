@@ -21,7 +21,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: What we know and do not know about the invasive Asian clam Corbicula fluminea
-doi: "doi: https://doi.org/10.1007/s10750-023-05280-w Article Interspecific"
+doi: "doi: https://doi.org/10.1007/s10750-023-05280-w "
 featured: false
 tags: []
 projects: []
