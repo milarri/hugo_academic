@@ -5,16 +5,17 @@ title: "Comparing production and life-history traits of a key amphipod species
 publication_types:
   - "2"
 authors:
-  - Martins I
-  - Guerra A
-  - Leite N
-  - Constantino E
+  - Irene Martins
+  - Alexandra Guerra
+  - Nuno Leite
+  - Emanuel Constantino
   - admin
-  - Souza AT
-  - Santos MM
-  - Ford AT
-  - Campos J
+  - Allan T. Souza
+  - Miguel Santos
+  - Alex T. Ford
+  - Joana Campos
 doi: https://doi.org/10.1016/j.marenvres.2021.105538
+publication: Marine Environmental Research
 draft: false
 featured: false
 image:
