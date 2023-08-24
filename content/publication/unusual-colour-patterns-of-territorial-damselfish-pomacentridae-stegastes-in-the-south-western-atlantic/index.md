@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Souza AT
-  - Ilarri MI
+  - admin
   - Medeiros PR
   - Sampaio CLS
   - Floeter SR |
