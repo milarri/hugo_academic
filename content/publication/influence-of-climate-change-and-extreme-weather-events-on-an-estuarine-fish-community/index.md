@@ -2,13 +2,14 @@
 title: Influence of climate change and extreme weather events on an estuarine
   fish community
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Allan T. Souza
   - Ester Dias
   - Carlos Antunes
 doi: https://doi.org/10.1016/j.scitotenv.2022.154190
+publication: Science of the Total Environment
 abstract: Extreme weather events are becoming more frequent as a result of
   climate change, and the increasing frequency of these events may lead to
   significant changes in fish assemblages. In this sense, this work aimed to
