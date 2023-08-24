@@ -8,15 +8,12 @@ authors:
   - Calheiros CSC
   - admin
   - Pereira SIA
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Proceedings of the 5th International Symposium on Water
-  Resource and Environmental Management. WREM 2022*
+author_notes: []
+publication: ""
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Biodiversity associated to floating wetland islands
@@ -28,7 +25,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2023-08-23T15:57:44.211Z
+date: 2023-08-24T09:42:57.671Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
