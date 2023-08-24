@@ -4,21 +4,22 @@ title: Interspecific differences in the physiological condition of native
 publication_types:
   - "2"
 authors:
-  - Modesto V
+  - Vanessa Modesto
   - admin
-  - Castro P
-  - Carvalho F
-  - Cavalheri T
-  - Lopes-Lima M
-  - Teixeira A
-  - Ozório ROA
-  - Antunes C
-  - Sousa R
+  - Paulo Castro
+  - Francisco Carvalho
+  - Thais Cavalheri
+  - Manuel Lopes-Lima
+  - Amilcar Teixeira
+  - Rodrigo O. A. Ozório
+  - Carlos Antunes
+  - Ronaldo Sousa
 doi: https://doi.org/10.1007/s10750-023-05209-3
+publication: Hydrobiologia
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: hydrobiologia_journal.png
   focal_point: Smart
   preview_only: false
 date: 2023-04-18T09:33:04.282Z
