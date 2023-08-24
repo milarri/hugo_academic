@@ -3,7 +3,7 @@ title: Massive mortality of the Asian clam Corbicula fluminea in a highly invade
 publication_types:
   - "2"
 authors:
-  - Ilarri MI
+  - admin
   - Antunes C
   - Guilhermino L
   - Sousa R
