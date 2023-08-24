@@ -3,7 +3,7 @@ title: Corbicula fluminea Müller (Asian clam)
 publication_types:
   - "6"
 authors:
-  - Ilarri MI
+  - admin
   - Sousa R
 doi: ISBN 978-113646125-5, 978-184971228-6
 draft: false
