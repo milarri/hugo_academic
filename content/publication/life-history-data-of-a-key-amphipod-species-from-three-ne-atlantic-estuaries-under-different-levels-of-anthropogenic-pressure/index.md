@@ -4,18 +4,18 @@ title: Life-history data of a key amphipod species from three NE Atlantic
 publication_types:
   - "0"
 authors:
-  - Martins I
-  - Guerra A
-  - Leite N
-  - Constantino
-  - E
+  - Irene Martins
+  - Alexandra Guerra
+  - Nuno Leite
+  - Emanuel Constantino
   - admin
-  - Souza AT
-  - Santos MM
-  - Ford AT
-  - Campos J
+  - Allan T. Souza
+  - Miguel M. Santos
+  - Alex T. Ford
+  - Joana Campos
 doi: https://doi.org/10.1016/j.dib.2021.107729
 publication: Data in Brief
+publication_short: Data paper
 draft: false
 featured: false
 image:
