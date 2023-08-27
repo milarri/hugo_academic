@@ -2,20 +2,20 @@
 title: Potential impacts of the invasive species Corbicula fluminea on the
   survival of glochidia
 publication_types:
-  - "0"
   - "2"
 authors:
-  - Modesto V
-  - Castro P
-  - Lopes-Lima M
-  - Antunes C
+  - Vanessa Modesto
+  - Paulo Castro
+  - Manuel Lopes-Lima
+  - Carlos Antunes
   - admin
-  - Sousa R
+  - Ronaldo Sousa
 doi: https://doi.org/10.1016/j.scitotenv.2019.04.043
+publication: Science of The Total Environment
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: stoten_modesto_2018.png
   focal_point: Smart
   preview_only: false
 date: 2019-04-05T10:27:40.782Z
