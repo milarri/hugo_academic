@@ -4,14 +4,15 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Souza AT
-  - Amorim L
-  - Sousa R
+  - Allan T. Souza
+  - Luis Amorim
+  - Ronaldo Sousa
 doi: https://doi.org/10.1016/j.scitotenv.2019.05.208
+publication: Science of The Total Environment
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: stoten_ilarri_2019.png
   focal_point: Smart
   preview_only: false
 date: 2019-05-17T10:26:01.080Z
