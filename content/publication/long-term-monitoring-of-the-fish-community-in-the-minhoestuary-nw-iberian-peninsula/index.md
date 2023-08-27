@@ -17,11 +17,12 @@ authors:
   - Ana Moura
   - Carlos Antunes |dmin
 doi: "doi: https://doi.org/10.5281/zenodo.8046541"
-publication: Dataset
+publication: Zenodo
+publication_short: Dataset
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: zenodo.png
   focal_point: Smart
   preview_only: false
 date: 2023-06-16T10:04:15.709Z
