@@ -5,13 +5,13 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Souza AT
-  - Rosa RS
+  - Allan T. Souza
+  - Ricardo S. Rosa
 doi: http://dx.doi.org/10.1071/MF16071
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: marine_and_freshwater_research.png
   focal_point: Smart
   preview_only: false
 date: 2016-10-10T10:44:06.262Z
