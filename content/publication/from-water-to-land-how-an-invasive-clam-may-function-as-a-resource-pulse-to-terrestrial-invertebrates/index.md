@@ -4,16 +4,17 @@ title: "From water to land: How an invasive clam may function as a resource
 publication_types:
   - "2"
 authors:
-  - Novais A
-  - Souza AT
+  - Adriana Novais
+  - Allan T. Souza
   - admin
-  - Pascoal C
-  - Sousa R
+  - Claúdia Pascoal
+  - Ronaldo Sousa
 doi: https://doi.org/10.1016/j.scitotenv.2015.08.106
+publication: Science of The Total Environment
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: novais_stoten.png
   focal_point: Smart
   preview_only: false
 date: 2015-12-15T11:57:20.259Z
