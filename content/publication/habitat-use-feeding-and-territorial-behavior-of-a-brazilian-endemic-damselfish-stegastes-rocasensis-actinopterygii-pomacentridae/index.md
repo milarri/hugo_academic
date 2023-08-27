@@ -4,9 +4,9 @@ title: "Habitat use, feeding and territorial behavior of a Brazilian endemic
 publication_types:
   - "2"
 authors:
-  - Souza AT
+  - Allan T. Souza
   - admin
-  - Rosa IL
+  - Ierece L. Rosa
 doi: https://doi.org/10.1007/s10641-010-9765-z
 publication: Environmental Biology of Fishes
 abstract: This paper presents the results of the first field study of the
