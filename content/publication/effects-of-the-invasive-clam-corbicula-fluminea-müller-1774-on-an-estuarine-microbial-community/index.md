@@ -4,16 +4,17 @@ title: Effects of the invasive clam Corbicula fluminea (Müller, 1774) on an
 publication_types:
   - "2"
 authors:
-  - Novais A
-  - Souza AT
+  - Adriana Novais
+  - Allan T. Souza
   - admin
-  - Pascoal C
-  - Sousa R
+  - Claúdia Pascoal
+  - Ronaldo Sousa
 doi: https://doi.org/10.1016/j.scitotenv.2016.05.167
+publication: Science of The Total Environment
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: novais_stoten_2016.png
   focal_point: Smart
   preview_only: false
 date: 2016-10-01T10:49:45.124Z
