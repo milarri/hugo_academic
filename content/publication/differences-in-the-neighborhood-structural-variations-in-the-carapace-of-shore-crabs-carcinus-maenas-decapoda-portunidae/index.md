@@ -27,7 +27,7 @@ abstract: The present study compared the carapace structure of Carcinus maenas
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: estuarine_coastal_shelf.png
   focal_point: Smart
   preview_only: false
 date: 2011-12-20T12:11:33.013Z
