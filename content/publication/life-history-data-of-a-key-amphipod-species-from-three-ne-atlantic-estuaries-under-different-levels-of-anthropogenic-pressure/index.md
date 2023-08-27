@@ -42,7 +42,7 @@ abstract: Knowledge on population dynamics of ecosystem's key-species is
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: data_in_brief.png
   focal_point: Smart
   preview_only: false
 date: 2022-02-01T11:11:45.016Z
