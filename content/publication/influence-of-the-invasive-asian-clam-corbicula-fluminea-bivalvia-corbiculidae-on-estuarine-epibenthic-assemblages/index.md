@@ -5,15 +5,16 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Souza AT
-  - Antunes C
-  - Guilhermino L
-  - Sousa R
+  - Allan T. Souza
+  - Carlos Antunes
+  - Lúcia Guilhermino
+  - Ronaldo Sousa
 doi: https://doi.org/10.1016/j.ecss.2014.03.017
+publication: Estuarine, Coastal and Shelf Science
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: estuarine_coastal_2.png
   focal_point: Smart
   preview_only: false
 date: 2014-04-20T11:05:14.176Z
