@@ -5,15 +5,16 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Souza AT
-  - Modesto V
-  - Guilhermino L
-  - Sousa R |
+  - Allan T. Souza
+  - Vanessa Modesto
+  - Lúcia Guilhermino
+  - Ronaldo Sousa
 doi: https://doi.org/10.1071/MF14004
+publication: Marine and Freshwater Research
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: marine_and_freshwater_research.png
   focal_point: Smart
   preview_only: false
 date: 2015-01-30T12:02:19.807Z
