@@ -33,7 +33,7 @@ abstract: Corbicula fluminea is a widespread and problematic invasive bivalve
 draft: false
 featured: false
 image:
-  filename: hydrobiologia_journal.png
+  filename: hydrobiologia_1.png
   focal_point: Smart
   preview_only: false
 date: 2023-06-26T09:55:04.399Z
