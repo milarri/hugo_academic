@@ -10,6 +10,7 @@ authors:
   - Claúdia Pascoal
   - Ronaldo Sousa
 doi: https://doi.org/10.3354/meps11168
+publication: Marine Ecology Progress Series
 abstract: "The Asian clam Corbicula fluminea (Müller, 1774) has been recognized
   as one of the most important invasive alien species in aquatic ecosystems and
   may have significant ecological and economic impacts. Recently, the presence
