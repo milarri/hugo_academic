@@ -15,7 +15,7 @@ authors:
   - Joana Campos
 doi: https://doi.org/10.1016/j.dib.2021.107729
 publication: Data in Brief
-publication_short: Data paper
+publication_short: ""
 abstract: Knowledge on population dynamics of ecosystem's key-species is
   invaluable to understand how populations will respond to natural and
   human-induced perturbations. The amphipod Echinogammarus marinus is a
