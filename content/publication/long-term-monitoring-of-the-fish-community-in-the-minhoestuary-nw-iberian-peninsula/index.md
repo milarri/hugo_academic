@@ -18,7 +18,7 @@ authors:
   - Carlos Antunes |dmin
 doi: "doi: https://doi.org/10.5281/zenodo.8046541"
 publication: Zenodo
-publication_short: Dataset
+publication_short: ""
 draft: false
 featured: false
 image:
