@@ -19,7 +19,7 @@ publication: Hydrobiologia
 draft: false
 featured: false
 image:
-  filename: hydrobiologia_journal.png
+  filename: hydrobiologia_1.png
   focal_point: Smart
   preview_only: false
 date: 2023-04-18T09:33:04.282Z
