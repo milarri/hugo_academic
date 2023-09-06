@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CIIMAR
+  - name: CIIMAR - Interdisciplinary Centre of Marine and Environmental Research of the University of Porto
     url: http://www2.ciimar.up.pt/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,12 +28,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Biological Invasions
   - Climate Change
+  - Aquatic Ecology
   - Conservation
   - Data Science
 
 # Education to show in About widget
 education:
   courses:
+    - course: MSc in Data Science 
+      institution: University of Porto, Portugal
+      year: 2021 (ongoing)
     - course: PhD in Marine and Environmental Sciences
       institution: University of Porto, Portugal
       year: 2012
@@ -64,9 +68,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/milarri
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
