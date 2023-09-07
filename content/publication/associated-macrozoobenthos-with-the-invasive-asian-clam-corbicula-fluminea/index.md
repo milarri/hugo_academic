@@ -13,6 +13,10 @@ doi: https://doi.org/10.1016/j.seares.2011.10.002
 publication: Journal of Sea Research
 draft: false
 featured: false
+tags:
+  - macrozoobenthos
+  - Asian clam
+  - ecological impacts
 image:
   filename: journal_of_sea_research.png
   focal_point: Smart
