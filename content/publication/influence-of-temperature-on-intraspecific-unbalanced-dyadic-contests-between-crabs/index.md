@@ -14,6 +14,9 @@ doi: https://doi.org/10.7717/peerj.7845
 publication: PeerJ
 draft: false
 featured: false
+tags:
+  - climate change
+  - behaviour
 image:
   filename: peerj.png
   focal_point: Smart
