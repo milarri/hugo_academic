@@ -10,6 +10,7 @@ draft: false
 featured: false
 tags:
   - Asian clam
+  - bivalves
 image:
   filename: handbook_ilarri_2012.png
   focal_point: Smart
