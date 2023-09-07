@@ -38,6 +38,10 @@ abstract: Despite the increasing awareness of climate change, few studies have
   with unknown ecological and socioeconomic consequences.
 draft: false
 featured: false
+tags:
+  - modelling
+  - climate change
+  - biological invasions
 image:
   filename: souza_2022.png
   focal_point: Smart
