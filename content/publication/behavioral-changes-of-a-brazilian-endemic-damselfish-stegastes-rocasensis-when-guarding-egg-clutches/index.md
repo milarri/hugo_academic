@@ -10,6 +10,10 @@ doi: https://doi.org/10.1007/s10641-013-0215-6
 publication: Environmental Biology of Fishes
 draft: false
 featured: false
+tags:
+  - fishes
+  - behavior
+  - Brazil
 image:
   filename: env_biol_fish.png
   focal_point: Smart
