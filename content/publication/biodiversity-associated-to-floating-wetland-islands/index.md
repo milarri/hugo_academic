@@ -30,6 +30,10 @@ abstract: Floating wetland islands (FWI) are nature-based solutions that can be
   biodiversity enhancement.
 draft: false
 featured: false
+tags:
+  - fauna
+  - biodiversity
+  - floating wetland islands
 image:
   filename: proceedings_wrem.png
   focal_point: Smart
