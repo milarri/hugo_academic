@@ -25,6 +25,10 @@ abstract: This paper presents the results of the first field study of the
   attacks were launched on conspecifics than on other fish species.
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
+  - behaviour
 image:
   filename: env_biol_fish.png
   focal_point: Smart
