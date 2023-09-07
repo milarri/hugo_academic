@@ -13,6 +13,10 @@ doi: https://doi.org/10.1016/j.scitotenv.2015.08.106
 publication: Science of The Total Environment
 draft: false
 featured: false
+tags:
+  - biological invasions
+  - resource pulse
+  - bivalves
 image:
   filename: novais_stoten.png
   focal_point: Smart
