@@ -12,6 +12,10 @@ doi: https://doi.org/10.1111/j.1095-8649.2010.02795.x
 publication: Journal of Fish Biology
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
+  - behaviour
 image:
   filename: journal_of_fish_biology.png
   focal_point: Smart
