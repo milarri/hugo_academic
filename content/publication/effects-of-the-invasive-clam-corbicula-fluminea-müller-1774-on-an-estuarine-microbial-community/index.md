@@ -13,6 +13,10 @@ doi: https://doi.org/10.1016/j.scitotenv.2016.05.167
 publication: Science of The Total Environment
 draft: false
 featured: false
+tags:
+  - biological invasions
+  - bivalve
+  - microbial community
 image:
   filename: novais_stoten_2016.png
   focal_point: Smart
