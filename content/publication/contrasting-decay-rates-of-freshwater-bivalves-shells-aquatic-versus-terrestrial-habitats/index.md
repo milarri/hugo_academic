@@ -8,7 +8,7 @@ authors:
   - Allan T. Souza
   - Ronaldo Sousa
 author_notes:
-  - bivalve
+  - bivalves
   - shells
   - shell decay
 doi: https://doi.org/10.1016/j.limno.2014.10.002
