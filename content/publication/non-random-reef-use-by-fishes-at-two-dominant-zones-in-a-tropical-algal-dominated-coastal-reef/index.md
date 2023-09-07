@@ -30,6 +30,10 @@ abstract: Habitat use and the processes which determine fish distribution were
   variable.
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
+  - tropical reef
 image:
   filename: env_biol_fish.png
   focal_point: Smart
