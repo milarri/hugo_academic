@@ -30,6 +30,9 @@ abstract: Reef fish usually display a remarkable variety of colours and
   Brazilian reefs are reported.
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
 image:
   filename: marine_biod_records.png
   focal_point: Smart
