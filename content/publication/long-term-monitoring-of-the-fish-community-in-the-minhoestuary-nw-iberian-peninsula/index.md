@@ -21,6 +21,8 @@ publication: Zenodo
 publication_short: ""
 draft: false
 featured: false
+tags:
+  - data
 image:
   filename: zenodo.png
   focal_point: Smart
