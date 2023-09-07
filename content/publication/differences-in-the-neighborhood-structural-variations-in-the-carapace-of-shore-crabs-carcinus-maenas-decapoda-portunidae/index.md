@@ -26,6 +26,8 @@ abstract: The present study compared the carapace structure of Carcinus maenas
   more frequent, thus favouring a thicker carapace.
 draft: false
 featured: false
+tags:
+  - shore crabs
 image:
   filename: estuarine_coastal_shelf.png
   focal_point: Smart
