@@ -35,6 +35,9 @@ abstract: >-
   Besides the system's global ecological status, E. marinus also seems to respond to microhabitat conditions, which may explain the spatial heterogeneity observed in the amphipod production within the same estuary. Intersexuality prevalence was negligible in the three populations, which does not support the idea of a link between anthropogenic pressure and intersexuality in E. marinus. We argue that the dependence of E. marinus on Fucus sp. should be further investigated to fully understand the role of both fucoids and the gammarid in coastal foodwebs.
 draft: false
 featured: false
+tags:
+  - estuary
+  - anthropogenic pressure
 image:
   filename: marine_env_research.png
   focal_point: Smart
