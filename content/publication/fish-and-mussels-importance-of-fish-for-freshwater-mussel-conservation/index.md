@@ -14,6 +14,10 @@ doi: https://doi.org/10.1111/faf.12252
 publication: Fish and Fisheries
 draft: false
 featured: false
+tags:
+  - fishes
+  - bivalves
+  - freshwater
 image:
   filename: fish_and_fisheries.png
   focal_point: Smart
