@@ -15,7 +15,7 @@ draft: false
 featured: false
 tags:
   - biological invasions
-  - bivalve
+  - bivalves
   - microbial community
 image:
   filename: novais_stoten_2016.png
