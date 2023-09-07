@@ -17,8 +17,8 @@ sections:
       title: Skills
       items:
         - name: Ecology
-          icon: r-project
-          icon_pack: fab
+          icon: acm
+          icon_pack: ai
         - name: Conservation
           icon: r-project
           icon_pack: fab
@@ -42,29 +42,25 @@ sections:
       items:
         - title: Researcher
           company: CIIMAR
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www2.ciimar.up.pt/team.php?id=286'
+          #company_logo: org-gc
           location: Porto (Portugal)
           date_start: '2018-10-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Ecological impacts of invasive alien species (IAS) and the influence of climate changes on IAS. 
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Postdoctoral Researcher
-          company: FCT scholarship
-          company_url: ''
-          company_logo: org-x
+          company: FCT scholarship/CIIMAR
+          #company_url: ''
+          #company_logo: org-x
           location: Porto (Portugal)
           date_start: '2012-03-01'
           date_end: '2018-09-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Studied the ecological impact of the Asian clam Corbicula fluminea in invaded ecosystems.
     design:
       columns: '2'
-  - block: accomplishments
-    content:
+##  - block: accomplishments
+  ##  content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
       subtitle:
@@ -75,31 +71,31 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+    ##  items:
+    ##    - certificate_url: https://www.coursera.org
+    ##      date_end: ''
+    ##      date_start: '2021-01-25'
+    ##      description: ''
+    ##      organization: Coursera
+    ##      organization_url: https://www.coursera.org
+    ##      title: Neural Networks and Deep Learning
+    ##      url: ''
+    ##    - certificate_url: https://www.edx.org
+    ##      date_end: ''
+    ##      date_start: '2021-01-01'
+    ##      description: Formulated informed blockchain models, hypotheses, and use cases.
+    ##      organization: edX
+    ##      organization_url: https://www.edx.org
+    ##      title: Blockchain Fundamentals
+    ##      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    ##    - certificate_url: https://www.datacamp.com
+    ##      date_end: '2020-12-21'
+    ##      date_start: '2020-07-01'
+    ##      description: ''
+    ##      organization: DataCamp
+    ##      organization_url: https://www.datacamp.com
+    ##      title: 'Object-Oriented Programming in R'
+    ##      url: ''
     design:
       columns: '2'
   - block: collection
@@ -129,10 +125,10 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
+ ## - block: portfolio
+ ##   id: projects
+ ##   content:
+ ##     title: Projects
       filters:
         folders:
           - project
@@ -152,7 +148,7 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -192,7 +188,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Posts
       filters:
         folders:
           - event
@@ -204,11 +200,16 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: collection ###included this
+    content:
+      title: Top Colaborators
+    design:
+      columns: '2'
   - block: contact
-    id: contact
+    ##id: contact
     content:
       title: Contact
-      subtitle:
+      ##subtitle:
       #text: |-
         #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
@@ -241,13 +242,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+     ## form:
+     ##   provider: netlify
+     ##   formspree:
+     ##     id:
+     ##   netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+     ##     captcha: false
     design:
       columns: '2'
 ---
