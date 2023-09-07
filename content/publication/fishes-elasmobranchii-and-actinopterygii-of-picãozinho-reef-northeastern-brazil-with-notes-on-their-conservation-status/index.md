@@ -24,6 +24,9 @@ abstract: Shallow reefs on the northeastern coast of Brazil are rich, productive
   species previously cited for Brazil.
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
 image:
   filename: zootaxa.png
   focal_point: Smart
