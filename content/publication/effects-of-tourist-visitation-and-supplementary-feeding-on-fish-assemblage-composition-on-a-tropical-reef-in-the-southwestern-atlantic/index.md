@@ -29,6 +29,9 @@ abstract: "The effects of tourist visitation and food provisioning on fish
   conservation and management initiatives."
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
 image:
   filename: neotropical_ichtyological.png
   focal_point: Smart
