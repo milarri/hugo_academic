@@ -14,7 +14,7 @@ publication: Journal of Sea Research
 draft: false
 featured: false
 tags:
-  - macrozoobenthos
+  - macroinvertebrates
   - Asian clam
   - ecological impacts
 image:
