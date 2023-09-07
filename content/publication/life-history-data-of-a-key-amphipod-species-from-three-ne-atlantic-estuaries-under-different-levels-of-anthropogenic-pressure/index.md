@@ -41,6 +41,8 @@ abstract: Knowledge on population dynamics of ecosystem's key-species is
   coastal systems, namely targeting at habitat conservation and restoration.
 draft: false
 featured: false
+tags:
+  - data
 image:
   filename: data_in_brief.png
   focal_point: Smart
