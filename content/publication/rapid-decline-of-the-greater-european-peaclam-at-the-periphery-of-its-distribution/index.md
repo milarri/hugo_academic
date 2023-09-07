@@ -28,6 +28,8 @@ abstract: Extirpation or even extinction of freshwater invertebrate species is a
   conservational measures are urgently needed.
 draft: false
 featured: false
+tags:
+  - bivalves
 image:
   filename: int_journ_limnol.png
   focal_point: Smart
