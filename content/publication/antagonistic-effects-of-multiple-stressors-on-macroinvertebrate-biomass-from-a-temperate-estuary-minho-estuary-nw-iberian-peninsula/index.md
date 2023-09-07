@@ -15,6 +15,11 @@ doi: https://doi.org/10.1016/j.ecolind.2019.01.065
 publication: Ecological Indicators
 draft: false
 featured: false
+tags:
+  - macroinvertebrates
+  - temperate estuary
+  - Iberian Peninsula
+  - modelling
 image:
   filename: ecological_indicators.png
   focal_point: Smart
