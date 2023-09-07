@@ -28,6 +28,9 @@ abstract: Extreme weather events are becoming more frequent as a result of
   events (droughts and floods).
 draft: false
 featured: false
+tags:
+  - fishes
+  - climate change
 image:
   filename: ilarri_et_al_2022.png
   focal_point: Smart
