@@ -14,6 +14,11 @@ doi: https://doi.org/10.1016/j.scitotenv.2019.04.043
 publication: Science of The Total Environment
 draft: false
 featured: false
+tags:
+  - biological invasions
+  - ecological impacts
+  - Asian clam
+  - bivalves
 image:
   filename: stoten_modesto_2018.png
   focal_point: Smart
