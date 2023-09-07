@@ -30,7 +30,7 @@ abstract: "Corbicula fluminea is a known aquatic invasive species responsible
   ecophysiological conditions of C. fluminea populations, a topic neglected in
   previous studies."
 draft: false
-featured: false
+featured: true
 tags:
   - Asian clam
   - bivalves
