@@ -31,6 +31,9 @@ abstract: "Corbicula fluminea is a known aquatic invasive species responsible
   previous studies."
 draft: false
 featured: false
+tags:
+  - Asian clam
+  - bivalves
 image:
   filename: hydrobiologia_journal.png
   focal_point: Smart
