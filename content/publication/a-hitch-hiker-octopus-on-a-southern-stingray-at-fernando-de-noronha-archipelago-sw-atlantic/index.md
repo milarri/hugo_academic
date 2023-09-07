@@ -13,8 +13,8 @@ draft: false
 featured: false
 tags:
   - Brazil
-  - Fishes
-  - Ecology
+  - fishes
+  - ecology
 image:
   filename: coral_reefs.png
   focal_point: Smart
