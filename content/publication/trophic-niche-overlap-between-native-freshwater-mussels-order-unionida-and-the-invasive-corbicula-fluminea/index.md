@@ -32,6 +32,10 @@ abstract: >-
   Given the global widespread distribution of C. fluminea, the implementation of management measures devoted to the control or even eradication of this invasive alien species should be a conservation priority given its potential for competition with highly threatened native freshwater mussels.
 draft: false
 featured: false
+tags:
+  - biological invasions
+  - bivalves
+  - trophic niche
 image:
   filename: aquatic_conserv.png
   focal_point: Smart
