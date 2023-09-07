@@ -11,6 +11,10 @@ doi: https://doi.org/10.1007/s00338-007-0199-9
 publication: Coral reefs
 draft: false
 featured: false
+tags:
+  - Brazil
+  - Fishes
+  - Ecology
 image:
   filename: coral_reefs.png
   focal_point: Smart
