@@ -30,6 +30,10 @@ abstract: "The Asian clam Corbicula fluminea (Müller, 1774) has been recognized
   via shell production and bioturbation in the sediments."
 draft: false
 featured: false
+tags:
+  - biological invasions
+  - macroinvertebrates
+  - estuary
 image:
   filename: meps.png
   focal_point: Smart
