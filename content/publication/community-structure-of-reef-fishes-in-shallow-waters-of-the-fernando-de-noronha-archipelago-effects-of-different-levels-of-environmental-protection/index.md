@@ -11,6 +11,10 @@ doi: http://dx.doi.org/10.1071/MF16071
 publication: Marine and Freshwater Research
 draft: false
 featured: false
+tags:
+  - fishes
+  - Brazil
+  - MPA
 image:
   filename: marine_and_freshwater_research.png
   focal_point: Smart
