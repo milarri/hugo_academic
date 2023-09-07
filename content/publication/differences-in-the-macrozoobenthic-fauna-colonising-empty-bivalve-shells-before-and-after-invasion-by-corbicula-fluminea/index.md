@@ -17,7 +17,7 @@ tags:
   - biological invasions
   - colonization
   - shells
-  - bivalve
+  - bivalves
 image:
   filename: marine_and_freshwater_research.png
   focal_point: Smart
