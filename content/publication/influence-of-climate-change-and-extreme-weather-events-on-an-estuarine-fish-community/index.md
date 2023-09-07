@@ -27,7 +27,7 @@ abstract: Extreme weather events are becoming more frequent as a result of
   the invasive species benefited from increased temperatures and extreme weather
   events (droughts and floods).
 draft: false
-featured: false
+featured: true
 tags:
   - fishes
   - climate change
