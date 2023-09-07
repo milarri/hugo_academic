@@ -11,6 +11,10 @@ doi: https://doi.org/10.1016/j.scitotenv.2019.05.208
 publication: Science of The Total Environment
 draft: false
 featured: false
+tags:
+  - bivalve
+  - shell
+  - shell decay
 image:
   filename: stoten_ilarri_2019.png
   focal_point: Smart
