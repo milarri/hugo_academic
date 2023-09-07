@@ -8,6 +8,8 @@ authors:
 doi: ISBN 978-113646125-5, 978-184971228-6
 draft: false
 featured: false
+tags:
+  - Asian clam
 image:
   filename: handbook_ilarri_2012.png
   focal_point: Smart
