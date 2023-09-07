@@ -13,6 +13,10 @@ doi: https://doi.org/10.1007/s10750-017-3136-0
 publication: Hydrobiologia
 draft: false
 featured: false
+tags:
+  - biiological invasions
+  - bivalves
+  - palatability
 image:
   filename: hydrobiologia_journal.png
   focal_point: Smart
