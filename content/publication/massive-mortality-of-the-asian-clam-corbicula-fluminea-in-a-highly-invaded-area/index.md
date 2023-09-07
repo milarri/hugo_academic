@@ -39,6 +39,10 @@ abstract: Corbicula fluminea is one of the most widespread invasive species in
   ecological changes resulting from this occurrence.
 draft: false
 featured: false
+tags:
+  - biological invasions
+  - massive mortalities
+  - bivalves
 image:
   filename: bio_inv.png
   focal_point: Smart
