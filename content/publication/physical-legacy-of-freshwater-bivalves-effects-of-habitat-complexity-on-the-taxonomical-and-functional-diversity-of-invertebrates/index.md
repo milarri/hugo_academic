@@ -33,7 +33,7 @@ abstract: Bivalves may play a major role in structuring aquatic communities.
   C. fluminea empty shells in the river bottom, did not affect the functional
   diversity of the macroinvertebrate assemblages.
 draft: false
-featured: false
+featured: true
 tags:
   - biological invasions
   - bivalves
