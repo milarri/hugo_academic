@@ -12,7 +12,7 @@ publication: Science of The Total Environment
 draft: false
 featured: false
 tags:
-  - bivalve
+  - bivalves
   - shell
   - shell decay
 image:
