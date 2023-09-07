@@ -32,6 +32,9 @@ abstract: Corbicula fluminea is a widespread and problematic invasive bivalve
   eradication are urgently needed.
 draft: false
 featured: false
+tags:
+  - Asian clam
+  - bivalves
 image:
   filename: hydrobiologia_1.png
   focal_point: Smart
