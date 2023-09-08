@@ -22,7 +22,7 @@ organizations:
     url: http://www2.ciimar.up.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the ecological impacts of biological invasions in a changing climate.
 
 # Interests to show in About widget
 interests:

@@ -37,8 +37,6 @@ tags:
   - climate change
   - bivalves
   - fishes
-  - Brazil
-  - Iberian Peninsula
   ##- Academic
   ##- 开源
 
