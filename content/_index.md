@@ -202,7 +202,7 @@ sections:
       columns: '2'
   - block: collection ###included this
     content:
-      title: Top Colaborators
+      title: Top colaborators
     design:
       columns: '2'
   - block: contact
