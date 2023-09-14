@@ -62,9 +62,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.pt/citations?user=Sy5XdsQAAAAJ&hl=pt-PT
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=16426031100
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-6780-8221
   - icon: github
     icon_pack: fab
     link: https://github.com/milarri
@@ -82,7 +88,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'martinailarri@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

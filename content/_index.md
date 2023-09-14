@@ -17,16 +17,16 @@ sections:
       title: Skills
       items:
         - name: Ecology
-          icon: acm
-          icon_pack: ai
+          icon: earth-america
+          icon_pack: fas
         - name: Conservation
-          icon: r-project
-          icon_pack: fab
+          icon: leaf
+          icon_pack: fa
         - name: R
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          icon: camera-retro
+          icon: chart-line
           icon_pack: fas
   - block: experience
     content:
@@ -206,7 +206,7 @@ sections:
     design:
       columns: '2'
   - block: contact
-    ##id: contact
+    id: contact
     content:
       title: Contact
       ##subtitle:

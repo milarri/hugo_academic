@@ -9,18 +9,18 @@ main:
     weight: 10
   - name: Posts
     url: '#posts'
-    weight: 30
+    weight: 20
   #- name: Projects
   #  url: '#projects'
   #  weight: 30
-  #- name: Talks
-  #  url: '#talks'
-  #  weight: 40
+  #- name: Events
+  #  url: '#event'
+  #  weight: 30
   - name: Publications
     url: '#featured'
     weight: 40
   - name: Colaborators
-    url: '#contact'
+    url: '#my-widget-123'
     weight: 50
   - name: Contact
     url: '#contact'
