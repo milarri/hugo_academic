@@ -214,7 +214,7 @@ sections:
         #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: martinailarri@gmail.com
-      phone: +351 936393982
+      phone: +351 223 401 809
     ##  appointment_url: 'https://calendly.com'
       address:
         street: Terminal de Cruzeiros do Porto de Leixões, Avenida General Norton de Matos, S/N
