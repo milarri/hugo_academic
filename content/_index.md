@@ -205,29 +205,29 @@ sections:
     content:
       title: Top colaborators
       text: |-
-        ## **:man: Allan Sousa :finland:**
+        ## **:man_scientist: Allan Souza :finland:**
 
         [University of Helsinki](https://researchportal.helsinki.fi/en/persons/allan-tain%C3%A1-de-souza)   [ResearchGate](https://www.researchgate.net/profile/Allan-Souza-5)   [Website](https://allantsouza.netlify.app/)
         
-        ## **:man: Ronaldo Sousa :portugal:**
+        ## **:man_scientist: Ronaldo Sousa :portugal:**
 
-        [University of Minho](https://www.uminho.pt/EN)   [R﻿esearchGate](https://www.researchgate.net/profile/Ronaldo-Sousa)   [Website](https://sites.google.com/site/ronaldosousainvasivespecies/home)
+        [University of Minho](https://www.uminho.pt/EN)   [ResearchGate](https://www.researchgate.net/profile/Ronaldo-Sousa)   [Website](https://sites.google.com/site/ronaldosousainvasivespecies/home)
 
-        ## **:woman: Vanessa Modesto 🇮🇹**
+        ## **:woman_scientist: Vanessa Modesto 🇮🇹**
 
         [CNR - Water Research Institute](https://www.irsa.cnr.it/wp/?page_id=807&lang=en)   [ResearchGate](https://www.researchgate.net/profile/Vanessa-Modesto-2)
 
-        ## **:woman: Irene Martins :portugal:**
+        ## **:woman_scientist: Irene Martins :portugal:**
 
         [CIIMAR](https://www2.ciimar.up.pt/team.php?id=160)   [Twitter](https://twitter.com/ireneisamartins)   [ResearchGate](https://www.researchgate.net/profile/Irene-Martins-2)
 
-        ## **:woman: Ester Dias :portugal:**
+        ## **:woman_scientist: Ester Dias :portugal:**
 
         [CIIMAR](https://www2.ciimar.up.pt/team.php?id=370)   [ResearchGate](https://www.researchgate.net/profile/Ester-Dias)
 
-        ## **:woman: Marina Dolbeth :portugal:**
+        ## **:woman_scientist: Marina Dolbeth :portugal:**
 
-        [C﻿IIMAR](https://www2.ciimar.up.pt/team.php?id=275)   [Twitter](https://twitter.com/marina_dolbeth)   [ResearchGate](https://www.researchgate.net/profile/Marina-Dolbeth)
+        [CIIMAR](https://www2.ciimar.up.pt/team.php?id=275)   [Twitter](https://twitter.com/marina_dolbeth)   [ResearchGate](https://www.researchgate.net/profile/Marina-Dolbeth)
     design:
       columns: '2'
   - block: contact
