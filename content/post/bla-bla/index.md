@@ -10,5 +10,7 @@ image:
   preview_only: false
 ---
 Next Sunday, September 17, the Terminal de Cruzeiros de Leixões and CIIMAR will be open to the public to celebrate another Day of the Port of Leixões and CIIMAR Open Day: CIIMAR Open Day 2023.
-The event will take place from 10 am to 7 pm. During this time, several booths will be available with different activities related to the sea and the environment, so that visitors can get a glimpse of CIIMAR's research work. In general, the open days are visited by about 20,000 people throughout the event. 
+The event will take place from 10 am to 7 pm. During this time, several stands will be available with different activities related to the sea and the environment, so that visitors can get a glimpse of CIIMAR's research work. In general, the open days are visited by about 20,000 people throughout the event. 
+
+
 Don´t miss it, it will be a great opportunity :).
