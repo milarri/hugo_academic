@@ -5,7 +5,7 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: programa.png
   focal_point: Smart
   preview_only: false
 ---
