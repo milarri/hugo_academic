@@ -1,7 +1,7 @@
 ---
 title: CIIMAR-UP open day is almost there!
 date: 2023-09-08T13:44:47.181Z
-summary: I﻿ have worked a lot today
+summary: ""
 draft: false
 featured: false
 image:
