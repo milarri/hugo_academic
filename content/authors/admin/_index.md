@@ -68,6 +68,12 @@ social:
   - icon: scopus
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=16426031100
+  - icon: researcherid
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/AGI-9335-2022
+  - icon: ciencia-vitae
+    icon_pack: ai
+    link: https://www.cienciavitae.pt//en/E212-E1D1-4509
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-6780-8221
