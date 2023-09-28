@@ -1,7 +1,7 @@
 ---
 title: Long-term monitoring of the fish community in the Minho Estuary (NW
   Iberian Peninsula)
-subtitle: ARPHA Preprints
+subtitle: ""
 publication_types:
   - "3"
 authors:
@@ -18,6 +18,7 @@ authors:
   - Ana Moura
   - Carlos Antunes
 doi: https://doi.org/10.3897/arphapreprints.e112222
+publication: ARPHA Preprints
 abstract: >-
   The paper presents an extensive fish sampling dataset spanning a long-term
   period
