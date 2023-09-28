@@ -1,6 +1,7 @@
 ---
 title: Long-term monitoring of the fish community in the Minho Estuary (NW
   Iberian Peninsula)
+subtitle: ARPHA Preprints
 publication_types:
   - "3"
 authors:
