@@ -40,6 +40,7 @@ tags:
   - shells
   - macroinvertebrates
   - funtional diversity
+  - Iberian Peninsula
 image:
   filename: stoten_ilarri_2018.png
   focal_point: Smart
