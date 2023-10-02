@@ -231,7 +231,7 @@ sections:
         
         ## **:woman_scientist: Cristina Calheiros :portugal:**
 
-        [CIIMAR](https://www2.ciimar.up.pt/team.php?id=239)   [ResearchGate](https://www.researchgate.net/profile/Cristina-Calheiros)
+        [CIIMAR](https://www2.ciimar.up.pt/team.php?id=239)   [ResearchGate](https://www.researchgate.net/profile/Cristina-Calheiros)       
     design:
       columns: '2'
   - block: contact
