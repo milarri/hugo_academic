@@ -11,6 +11,7 @@ author_notes:
   - bivalves
   - shells
   - shell decay
+  - Iberian Peninsula
 doi: https://doi.org/10.1016/j.limno.2014.10.002
 publication: Limnologica
 draft: false
