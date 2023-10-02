@@ -228,6 +228,10 @@ sections:
         ## **:woman_scientist: Marina Dolbeth :portugal:**
 
         [CIIMAR](https://www2.ciimar.up.pt/team.php?id=275)   [Twitter](https://twitter.com/marina_dolbeth)   [ResearchGate](https://www.researchgate.net/profile/Marina-Dolbeth)
+        
+        ## **:woman_scientist: Cristina Calheiros :portugal:**
+
+        [CIIMAR](https://www2.ciimar.up.pt/team.php?id=239)   [ResearchGate](https://www.researchgate.net/profile/Cristina-Calheiros)
     design:
       columns: '2'
   - block: contact
