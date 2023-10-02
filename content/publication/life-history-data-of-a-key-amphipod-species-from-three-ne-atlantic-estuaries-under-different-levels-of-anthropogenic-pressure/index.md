@@ -43,6 +43,7 @@ draft: false
 featured: false
 tags:
   - data
+  - Iberian Peninsula
 image:
   filename: data_in_brief.png
   focal_point: Smart
