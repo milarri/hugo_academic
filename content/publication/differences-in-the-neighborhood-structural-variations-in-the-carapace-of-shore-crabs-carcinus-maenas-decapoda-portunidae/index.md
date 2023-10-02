@@ -28,6 +28,7 @@ draft: false
 featured: false
 tags:
   - shore crabs
+  - Iberian Peninsula
 image:
   filename: estuarine_coastal_shelf.png
   focal_point: Smart
