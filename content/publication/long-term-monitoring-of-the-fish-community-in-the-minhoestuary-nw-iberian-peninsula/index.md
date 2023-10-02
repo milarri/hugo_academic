@@ -23,6 +23,7 @@ draft: false
 featured: false
 tags:
   - data
+  - Iberian Peninsula
 image:
   filename: zenodo.png
   focal_point: Smart
