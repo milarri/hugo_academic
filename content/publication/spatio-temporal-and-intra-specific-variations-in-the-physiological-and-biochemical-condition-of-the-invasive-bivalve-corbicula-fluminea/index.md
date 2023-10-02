@@ -34,6 +34,7 @@ featured: false
 tags:
   - Asian clam
   - bivalves
+  - Iberian Peninsula
 image:
   filename: hydrobiologia_journal.png
   focal_point: Smart
