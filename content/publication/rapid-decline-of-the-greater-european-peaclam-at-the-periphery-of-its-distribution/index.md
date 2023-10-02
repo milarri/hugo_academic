@@ -30,6 +30,7 @@ draft: false
 featured: false
 tags:
   - bivalves
+  - Iberian Peninsula
 image:
   filename: int_journ_limnol.png
   focal_point: Smart
