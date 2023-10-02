@@ -15,6 +15,7 @@ tags:
   - bivalves
   - shell
   - shell decay
+  - Iberian Peninsula
 image:
   filename: stoten_ilarri_2019.png
   focal_point: Smart
