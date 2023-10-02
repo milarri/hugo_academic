@@ -31,6 +31,7 @@ featured: true
 tags:
   - fishes
   - climate change
+  - Iberian Peninsula
 image:
   filename: ilarri_et_al_2022.png
   focal_point: Smart
