@@ -12,7 +12,7 @@ draft: false
 featured: false
 tags:
   - fishes
-  - behavior
+  - behaviour
   - Brazil
 image:
   filename: env_biol_fish.png
