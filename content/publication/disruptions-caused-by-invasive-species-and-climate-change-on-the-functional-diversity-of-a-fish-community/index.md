@@ -41,7 +41,7 @@ abstract: >+
 draft: false
 featured: false
 tags:
-  - climatechange
+  - climate change
   - functional diversity
   - fishes
   - Iberian Peninsula
