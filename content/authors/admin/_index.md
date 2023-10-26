@@ -44,7 +44,7 @@ education:
     - course: MSc in Biological Sciences - Zoology
       institution: Universidade Federal da Paraiba, Brazil
       year: 2008
-    - course: BSc in Biological Sciences - Marina Biology
+    - course: BSc in Biological Sciences - Marine Biology
       institution: Universidade Federal Fluminense, Brazil
       year: 2005
 
