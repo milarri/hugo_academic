@@ -35,7 +35,7 @@ tags:
   - fishes
   - climate change
   - Iberian Peninsula
-  - Functional diversity
+  - functional diversity
 image:
   filename: g_abstract_neobiota.png
   focal_point: Smart
