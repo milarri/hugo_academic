@@ -39,7 +39,7 @@ tags:
   - bivalves
   - shells
   - macroinvertebrates
-  - funtional diversity
+  - functional diversity
   - Iberian Peninsula
 image:
   filename: stoten_ilarri_2018.png
