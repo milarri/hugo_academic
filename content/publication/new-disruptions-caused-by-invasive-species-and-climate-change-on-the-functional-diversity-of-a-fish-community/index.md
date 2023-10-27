@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Allan T. Souza
   - Ester Dias
-  - CarlosAntunes
+  - Carlos Antunes
   - Admin
 doi: "doi: 10.3897/neobiota.88.108283"
 publication: NeoBiota
