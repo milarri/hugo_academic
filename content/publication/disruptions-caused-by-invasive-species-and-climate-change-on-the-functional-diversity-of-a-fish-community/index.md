@@ -40,11 +40,7 @@ abstract: >+
 
 draft: false
 featured: false
-tags:
-  - climate change
-  - functional diversity
-  - fishes
-  - Iberian Peninsula
+tags: []
 image:
   filename: arpha_prepints.png
   focal_point: Smart
