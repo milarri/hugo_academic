@@ -1,5 +1,6 @@
 ---
-title: New about fishes
+title: Disruptions caused by invasive species and climate change on the
+  functional diversity of a fish community
 publication_types:
   - "0"
   - "2"
@@ -9,6 +10,7 @@ authors:
   - Carlos Antunes
   - Admin
 doi: "doi: 10.3897/neobiota.88.108283"
+publication: NeoBiota
 abstract: As the effects of climate change continue to intensify, non-native
   species are becoming more prevalent in estuarine ecosystems. This has
   implications for the taxonomic and functional diversity of fish communities.
