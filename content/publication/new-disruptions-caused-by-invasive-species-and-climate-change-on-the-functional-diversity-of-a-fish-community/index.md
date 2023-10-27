@@ -1,5 +1,5 @@
 ---
-title: New Disruptions caused by invasive species and climate change on the
+title: Disruptions caused by invasive species and climate change on the
   functional diversity of a fish community
 publication_types:
   - "2"
