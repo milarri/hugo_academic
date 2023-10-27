@@ -37,7 +37,7 @@ tags:
   - Iberian Peninsula
   - functional diversity
 image:
-  filename: featured
+  filename: g_abstract_neobiota.png
   focal_point: Smart
   preview_only: false
 date: 2023-10-27T11:32:07.561Z
