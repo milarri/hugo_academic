@@ -2,7 +2,6 @@
 title: Long-term monitoring of the fish community in the Minho Estuary (NW
   Iberian Peninsula)
 publication_types:
-  - "0"
   - "2"
 authors:
   - AllanT. Souza
@@ -17,8 +16,9 @@ authors:
   - Ana Lages
   - Ana Moura
   - Carlos Antunes
-doi: "doi: 10.3897/BDJ.12.e112217"
-abstract: >
+doi: https://doi.org/10.3897/BDJ.12.e112217
+publication: Biodiversity Data Journal
+abstract: >-
   The paper presents an extensive fish sampling dataset spanning a long-term
   period from
 
@@ -31,11 +31,28 @@ abstract: >
   method and deployed at Lenta Marina. This dataset offers valuable insights into the
 
   abundance of each collected taxa recorded over time.
+
+  The dataset reports a comprehensive compilation of data on the abundance of fish species
+
+  observed in the area during the sampling period (includes zeroes when a given taxonomic
+
+  entity was absent in a given sampling event). It provides a detailed record of the
+
+  abundances of the fish community through time in a frequent sampling regime (on
+
+  average, sampling was done every 6 days). The dataset shows that the amount of fish
+
+  from invasive taxa exceeds the count of fish from native taxa in the Minho Estuary.
 draft: false
 featured: false
+tags:
+  - data
+  - fishes
+  - estuary
+  - Iberian Peninsula
 image:
-  filename: featured
+  filename: biodiversity_data_journal.png
   focal_point: Smart
   preview_only: false
-date: 2024-03-20T11:13:39.138Z
+date: 2024-03-08T11:13:00.000Z
 ---
