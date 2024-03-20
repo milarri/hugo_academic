@@ -1,5 +1,5 @@
 ---
-title: Long-term monitoring of the fish community in the MinhoEstuary (NW
+title: Long-term monitoring of the fish community in the Minho Estuary (NW
   Iberian Peninsula)
 publication_types:
   - "0"
