@@ -1,6 +1,6 @@
 ---
-title: Long-term monitoring of the fish community in the Minho Estuary (NW
-  Iberian Peninsula)
+title: Long-term monitoring of the fish community in the Minho Estuary NW
+  Iberian Peninsula
 publication_types:
   - "2"
 authors:
@@ -28,7 +28,7 @@ abstract: >
   recorded over time.
 
   The dataset reports a comprehensive compilation of data on the abundance of fish species observed in the area during the sampling period (includes zeroes when a given taxonomic entity was absent in a given sampling event). It provides a detailed record of the abundances of the fish community through time in a frequent sampling regime (on average, sampling was done every 6 days). The dataset shows that the amount of fish from invasive taxa exceeds the count of fish from native taxa in the Minho Estuary.
-draft: false
+draft: true
 featured: true
 tags:
   - data
