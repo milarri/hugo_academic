@@ -41,11 +41,7 @@ abstract: >-
   native taxa.
 draft: false
 featured: false
-tags:
-  - data
-  - fishes
-  - estuary
-  - Iberian Peninsula
+tags: []
 image:
   filename: arpha_prepints.png
   focal_point: Smart
