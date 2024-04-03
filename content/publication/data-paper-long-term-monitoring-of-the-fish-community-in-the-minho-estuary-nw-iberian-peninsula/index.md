@@ -39,7 +39,7 @@ abstract: >-
 
   native taxa.
 draft: false
-featured: false
+featured: true
 tags:
   - data
   - fishes
