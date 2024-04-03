@@ -32,7 +32,10 @@ abstract: As the effects of climate change continue to intensify, non-native
   diverse than previously.
 draft: false
 featured: false
-tags: []
+tags:
+  - biological invasions
+  - climate change
+  - functional diversity
 image:
   filename: g_abstract_neobiota.png
   focal_point: Smart
