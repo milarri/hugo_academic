@@ -16,7 +16,7 @@ authors:
   - Ana Lages
   - Ana Moura
   - Carlos Antunes |dmin
-doi: "doi: https://doi.org/10.5281/zenodo.8046541"
+doi: "DOI: 10.5281/zenodo.10321946"
 publication: Zenodo
 publication_short: ""
 draft: false
