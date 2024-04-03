@@ -44,6 +44,6 @@ tags: []
 image:
   filename: arpha_prepints.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2023-06-22T10:52:33.052Z
 ---
