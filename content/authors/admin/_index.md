@@ -35,9 +35,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Data Science 
-      institution: University of Porto, Portugal
-      year: 2021 (ongoing)
+    - course: Data steward certificate course
+      institution: University of Vienna, Austria
+      year: 2024-2025 (ongoing)
     - course: PhD in Marine and Environmental Sciences
       institution: University of Porto, Portugal
       year: 2012
