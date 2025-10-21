@@ -37,7 +37,7 @@ education:
   courses:
     - course: Data steward certificate course
       institution: University of Vienna, Austria
-      year: 2024-2025 (ongoing)
+      year: 2024-2025 
     - course: PhD in Marine and Environmental Sciences
       institution: University of Porto, Portugal
       year: 2012
