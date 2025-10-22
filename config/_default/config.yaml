@@ -6,6 +6,14 @@
 title: Martina Ilarri # Website name
 baseURL: 'https://example.com/' # Website URL
 
+# ==========================
+# Analytics configuration
+# ==========================
+
+googleAnalytics: ""
+params:
+  googleAnalytics: false
+
 ############################
 ## LANGUAGE
 ############################
@@ -21,10 +29,22 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
 
 ############################
 ## ADVANCED
@@ -32,7 +52,10 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+
+pagination:
+  pagerSize: 10
+
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -44,7 +67,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -73,3 +96,9 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+ignoreLogs:
+  - "WARN"
+  - "unrecognized render hook template"
+  - "deprecated"
+

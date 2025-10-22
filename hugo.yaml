@@ -1,0 +1,3 @@
+ignoreLogs:
+  - 'unrecognized render hook template'
+
