@@ -1,9 +1,17 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
+title: ""
 date: 2022-10-24
 type: landing
-
+layout: landing
+outputs:
+  - HTML
+  - RSS
+  - JSON
+  - WebAppManifest
+build:
+    list: always
+    render: always
+---
 sections:
   
   - block: about.biography
@@ -280,4 +288,3 @@ sections:
      ##     captcha: false
     design:
       columns: '2'
----
